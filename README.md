@@ -4,8 +4,6 @@ This is a simple machine learning project that predicts housing prices in Califo
 
 🔗 GitHub Repo: [alexmueller07/housing-ML-model](https://github.com/alexmueller07/housing-ML-model/tree/main)
 
-Note: This is a .ipynb file meaning it is a Jupyter Notebook
-
 ## 🧠 What It Does
 
 - Loads and processes California housing data
@@ -14,6 +12,12 @@ Note: This is a .ipynb file meaning it is a Jupyter Notebook
 - Outputs predictions
 
 All code is contained in `main.py`, and the dataset should be located in the same directory as `housing.csv`.
+
+---
+
+<img width="1843" height="718" alt="image" src="https://github.com/user-attachments/assets/1f231eea-827e-4b01-99c6-1cf3b74c2b46" />
+
+---
 
 ## 🛠 How to Run
 
